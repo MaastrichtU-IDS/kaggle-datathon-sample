@@ -1,6 +1,0 @@
-.git/
-.ipynb_checkpoints/
-catboost_info/
-training_v2.csv
-unlabeled.csv
-WiDS Datathon 2020 Dictionary.csv
